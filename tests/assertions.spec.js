@@ -15,6 +15,7 @@ test("Assertions in Playwright", async ({ page }) => {
   await expect(page).toHaveTitle("api testing by testers talk - YouTube");
 
   // assert text
+
   // await expect
   //   .soft(page.locator('[name="search_query"]'))
   //   .toHaveValue("api by testers talk");

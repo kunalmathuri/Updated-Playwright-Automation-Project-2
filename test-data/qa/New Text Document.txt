@@ -1,0 +1,3 @@
+"TestCaseId","skill1","skill2"
+"TS_01","playwright by testers talk","cypress by testers talk"
+"TS_02","postman by testers talk","rest assured by testers talk"
